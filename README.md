@@ -10,7 +10,7 @@ Database : Firebase, AWS for PDF and Videos<br />
 Backend APIs : Flask<br />
 Python libraries : For Text to speech : gtts, PDF to text : pdfminer, Video synthesis : moviepy, Recommendation : Scikitlearn, Gensim : To find import keyword in given Text.
 
-Start the Project with Following Code :
+### Installation
 
 `yarn and yarn start`
 
