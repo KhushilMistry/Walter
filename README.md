@@ -2,7 +2,7 @@
 
 PDF reading is one of the most boring task. This Web App makes learning fun with converting PDF into video of images relevant to PDF content and also integrating subtitles and Text to speech. 
 
-This is front end App. I will update Backend App soon.
+This is the front end app. I will update the backend app soon.
 
 ### We are using following Tools and libraries
 Front End : React, a JavaScript library and Redux as state management tool<br />
