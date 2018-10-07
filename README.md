@@ -8,11 +8,11 @@ This is front end App. I will update Backend App soon.
 Front End : React, a JavaScript library and Redux as state management tool<br />
 Database : Firebase, AWS for PDF and Videos<br />
 Backend APIs : Flask<br />
-Python libraries : For Text to speech : gtts, PDF to text : pdfminer, Video synthesis : moviepy, Recommendation : Scikitlearn, Gensim : To find import keyword in given Text
+Python libraries : For Text to speech : gtts, PDF to text : pdfminer, Video synthesis : moviepy, Recommendation : Scikitlearn, Gensim : To find import keyword in given Text.
 
 Start the Project with Following Code :
 
 `yarn and yarn start`
 
-<a href="https://drive.google.com/file/d/1PZDR52ZBlESK0iGiXcOamRVGo5owBfUK/view?usp=sharing">Click Here</a> to see Video of Walter
+<a href="https://drive.google.com/file/d/1PZDR52ZBlESK0iGiXcOamRVGo5owBfUK/view?usp=sharing">Click Here</a> to see Video of Walter.
 
