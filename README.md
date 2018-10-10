@@ -1,8 +1,8 @@
 # Walter
 
-PDF reading is one of the most boring task. This Web App makes learning fun with converting PDF into video of images relevant to PDF content and also integrating subtitles and Text to speech. 
+PDF reading is one of the most boring task. This web app makes learning fun with converting PDF into video of images relevant to PDF content and also integrating subtitles and text to speech. 
 
-This is the front end app. I will update the backend app soon.
+This is the front end app. Link to the backend app : <a href="https://github.com/DhruvThakker/Walter_Backend" target="_blank">https://github.com/DhruvThakker/Walter_Backend</a>
 
 ### We are using following Tools and libraries
 Front End : React, a JavaScript library and Redux as state management tool<br />
